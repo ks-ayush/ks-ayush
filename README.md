@@ -10,8 +10,6 @@ A Bachelor of Technology student at IIIT Ranchi with a strong interest in **full
 
 - Strong foundation in **DSA, OOPs, DBMS, and Web Development**
 - Hands-on experience with **MERN Stack & Next.js**
-- Currently learning **AI/ML and PyTorch**
-- Selected in **GirlScript Summer of Code**
 - Building projects in **Full Stack & AI**
 
 ---
